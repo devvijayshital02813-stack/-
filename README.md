@@ -3,9 +3,6 @@
 <meta charset="UTF-8">
 <title>For Disha 🌸</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-<link a href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500&family=Pacifico&display=swap" rel="stylesheet">
-
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
 
